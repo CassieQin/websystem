@@ -1,6 +1,6 @@
 # websystem
 
-> A Vue.js project
+> vue 搭建的后台管理系统框架
 
 ## Build Setup
 
